@@ -1,4 +1,4 @@
-#Predict by exapaq module v1.0
+#Predict by exapaq module v1.0. Works only with Thelia 2.0.X
 
 ##Summary
 [Français (fr_FR)](#fr_FR)
